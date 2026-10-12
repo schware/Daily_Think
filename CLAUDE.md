@@ -12,7 +12,7 @@
 ```text
 Daily_Think/
 ├── CLAUDE.md
-├── inbox/
+├── index/
 │   └── memo.md
 └── daily
 ```
