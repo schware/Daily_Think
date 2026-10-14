@@ -17,3 +17,6 @@ JSP 와 JavaScript의 동작 원리에 대해서 궁금해요
 
 질문을 추가 할께여 
 JSP JavaScript WEB Server Was Server 의 관계를  다시 정리를 해 주실래여?
+
+질문을 하게 된 이유
+nodejs라는 부분이에여  이것은  어떤 역할을 해여?
