@@ -20,3 +20,5 @@ JSP JavaScript WEB Server Was Server 의 관계를  다시 정리를 해 주실�
 
 질문을 하게 된 이유
 nodejs라는 부분이에여  이것은  어떤 역할을 해여?
+
+지금 이상해요 node.js 안에 그러면  nestjs 같은  web server가 있어요?  음 ...  서버는 아니다 인가여?
