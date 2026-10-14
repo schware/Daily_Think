@@ -14,3 +14,6 @@ AI를 통해서 공부하는 것에 대해서 현재 고민이 많은 시기이�
 질문 
 JSP 와 JavaScript의 동작 원리에 대해서 궁금해요 
 그리고  WAS 서버의 역할도 함께 궁금해요
+
+질문을 추가 할께여 
+JSP JavaScript WEB Server Was Server 의 관계를  다시 정리를 해 주실래여?
