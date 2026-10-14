@@ -62,3 +62,6 @@ client/server 프로젝트의 대표 기술 부터 해서 web/server 까지 발�
 시대 : 대표 아키텍처 : client 및 front-end : server 및 back-end : database 와 통합 : 대표 배포 기술 : 대표 제품 기술 : 실행 환경 
 등을 1950-2026 그리고 앞으로 방향성을 정리 해 보실래요? 
 cladme.md 추가 했어요
+
+AI 관련 자료를 ./Daily_Think/references/papers 에 올려 놓았어요. 
+이번에는 주제 5로 해서 2026년 기관들이 조사한 자료를 총 정리해 주세요.
