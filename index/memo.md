@@ -22,3 +22,7 @@ JSP JavaScript WEB Server Was Server 의 관계를  다시 정리를 해 주실�
 nodejs라는 부분이에여  이것은  어떤 역할을 해여?
 
 지금 이상해요 node.js 안에 그러면  nestjs 같은  web server가 있어요?  음 ...  서버는 아니다 인가여?
+
+이제 그러면 다시 질문이에여 
+우리는 WEB 서버 가 아닌 WAS서버가 필요한 세상에 살고 있는 것이죠 ? 
+WAS 의 역사를 알려 주세여
