@@ -153,3 +153,5 @@ ai-java-method 로 해서 만드시죠 앞에 굳이 06 을 강조 할 필요 �
 claude --teleport
 
 아니에요 이해 했어요 고생 했어요
+
+제가 따로 PC Local 에서 주제 6을 진행 할께요 고마워요
