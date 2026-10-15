@@ -149,3 +149,5 @@ ai-java-method 로 해서 만드시죠 앞에 굳이 06 을 강조 할 필요 �
 
 지금 이것을 Cloud 가 아닌 local 로 가져 오면 iphone 와 충돌이 발생하나요? 
 아니면 어떤 문제가 생기나요? 알아봐 주실래요?
+
+claude --teleport
