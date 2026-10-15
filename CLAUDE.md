@@ -9,7 +9,7 @@
 ## 폴더 구조
 - `index/memo.md` — iPhone에서 글을 적은 것을 전부 적는 곳. 분류하지 않는다.
 - `daily/YYYY-MM-DD.md` — Claude Code 가 Index 메모를 날짜별로 정리하는 공간
-- `topics/<번호>-<이름>/` — 주제를 daily 밖에서 따로 모아 관리하는 공간 (예: `topics/06-ai-dev-method/`)
+- `topics/<이름>/` — 주제를 daily 밖에서 따로 모아 관리하는 공간 (예: `topics/ai-java-method/`)
 
 ```text
 Daily_Think/
@@ -18,5 +18,5 @@ Daily_Think/
 │   └── memo.md
 ├── daily
 └── topics/
-    └── 06-ai-dev-method/
+    └── ai-java-method/
 ```
