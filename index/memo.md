@@ -129,3 +129,6 @@ PR  설명과 변경 요약
 번역을 너무 .. 과거 대한민국에 Operating System Concepts  와 동급의 번역 같아요 
 그리고 Advanced Programming in the UNIX Environment  - 김치하 교수 수준의 번역을 굳이  Claude Code 가 번역을 이정도 수준으로 해야 할까요? 
 영어단어는 그냥 영어 단어로 해주세요.. 무리하게 번역은 최소화 부탁 해요
+
+iPhone(cloude) 에서 할 때 처럼
+ PC (Local) 에서 할 때 를 추가 부탁해요
