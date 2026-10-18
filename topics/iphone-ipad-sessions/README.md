@@ -7,14 +7,18 @@ iPhone·iPad 앱에서 시작한 cloud session(origin: `ios`)을 모두 모았�
 
 ## 한눈에
 
+10-18에 1~5번 session의 제목을 내용에 맞게 바꾸고 archive했다. 표의 제목은 바꾼 제목이고, 괄호 안이 원래 제목이다. archive한 session은 Code 탭에서 다시 꺼낼 수 있다.
+
 | # | 기간 | session 제목 | repository | 한 일 | 상태 |
 |---|---|---|---|---|---|
-| 1 | 09-07 | alignment/docs 한글 문서 검토 | alignment (public, 지금 목록에는 reflect-alignment로 보임) | 한글 문서 검토, 영어판 동기화, conflict 해결, PR 개념, CI/CD 개념 | branch에 push. PR은 직접 하기로 함 |
-| 2 | 09-08 ~ 09-11 | 모두의 창업 공개 설정 및 문서 시스템 | private A | PARA 문서 구조, 창업 아이템 기획·설계 문서, 신청서 초안 (PR 2건 merge) | branch 1개 PR 미생성. PC로 넘기기로 함 |
-| 3 | 09-17 ~ 10-08 | 저장소 연결 확인 | sun-moon-iphone-repository (public) | 연결 확인, 공부 추천, 뉴스 질문, iPhone에서 git 쓰는 법 | 질문·답만 있음. repository는 비어 있음 |
-| 4 | 10-12 | 생각 정리 공간 | private A | repository 점검 1회 | 점검 결과만 남음 |
-| 5 | 10-12 ~ 10-17 | AI 학습 방법 고민 | Daily_Think | 메모 정리, 주제 1~6, `topics/ai-java-method/` | merge 8번. memo commit 3개는 main에 아직 없음 |
+| 1 | 09-07 | alignment 문서 동기화와 CI/CD 개념 (alignment/docs 한글 문서 검토) | alignment (public, 지금 목록에는 reflect-alignment로 보임) | 한글 문서 검토, 영어판 동기화, conflict 해결, PR 개념, CI/CD 개념 | archive. branch에 push했고, PR은 직접 하기로 함 |
+| 2 | 09-08 ~ 09-11 | 창업 아이템 문서·신청서 초안 (PC로 이관) (모두의 창업 공개 설정 및 문서 시스템) | private A | PARA 문서 구조, 창업 아이템 기획·설계 문서, 신청서 초안 (PR 2건 merge) | archive. branch 1개 PR 미생성. PC로 넘기기로 함 |
+| 3 | 09-17 ~ 10-08 | iPhone 질문 모음 (공부·뉴스·git) (저장소 연결 확인) | sun-moon-iphone-repository (public) | 연결 확인, 공부 추천, 뉴스 질문, iPhone에서 git 쓰는 법 | archive. 질문·답만 있음. repository는 비어 있음 |
+| 4 | 10-12 | 창업 문서 저장소 점검 (10/12) (생각 정리 공간) | private A | repository 점검 1회 | archive. 점검 결과만 남음 |
+| 5 | 10-12 ~ 10-17 | Daily_Think 메모 정리, 주제 1~6 (AI 학습 방법 고민) | Daily_Think | 메모 정리, 주제 1~6, `topics/ai-java-method/` | archive. PR 9개 merge (#1~#9) |
 | 6 | 10-18 ~ | iPhone Claude code 정리 | Daily_Think | 이 정리 | 진행 중 |
+
+iPhone·iPad가 아닌 web(claude.ai)에서 연 cloud session 1개("Cloud Claude 코드 인증", 10-16, GitHub 연결 안내에서 멈춤)도 "GitHub 연결 안내 (미완)"으로 제목을 바꾸고 archive했다.
 
 ## 1. alignment/docs 한글 문서 검토 (09-07)
 - **repository:** 커리어 결정을 ADR로 기록하는 문서 repository. 한글판(`_kr`)과 영어판이 짝으로 있다.
@@ -69,10 +73,11 @@ iPhone·iPad 앱에서 시작한 cloud session(origin: `ios`)을 모두 모았�
 - **repository에 아직 없는 대화**
   - 10-16 새벽: `~/.claude/CLAUDE.md`를 만드는 script를 iPhone·iPad에 등록할 수 있나 → cloud environment의 **Setup script**에 넣는다. 그 environment로 여는 모든 cloud session에 적용된다. 앱에서 Edit 메뉴를 못 찾으면 PC 브라우저나 Desktop app에서 한다. (지금 이 session에 그 `CLAUDE.md`가 적용돼 있다.)
   - 10-17: iPhone Claude Code는 폴더 정리를 어떻게 하나 → iPhone에는 "내 폴더"가 없다. 폴더는 GitHub repository 안에 있고, 정리는 말로 시킨다. session 정리는 Code 탭의 이름 바꾸기·archive와 Projects.
-- **남은 것:** 원격 `daily/2026-10-12` branch의 memo commit 3개가 main에 없다 (이 session에서 working tree에만 반영).
+- **남은 것:** 없음. main에 없던 memo commit 3개는 10-18에 6번 session이 정리해 merge했다.
 
 ## 6. iPhone Claude code 정리 (10-18 ~)
 - 이 session. 메모를 daily로 옮기고, 이 파일을 만들었다.
+- 1~5번 session의 제목을 바꾸고 archive했고, `daily/2026-10-12`를 main에 merge했다.
 
 ## Claude: 보이는 것
 - **끝까지 닫힌 것은 Daily_Think뿐이다.** 요청이 작았고, 결과가 파일로 남았고, 끝이 merge로 정해져 있었다 (주제 6의 생각과 같은 이야기).
